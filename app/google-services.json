@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145306949508",
+    "firebase_url": "https://wall-street-crushers-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wall-street-crushers",
+    "storage_bucket": "wall-street-crushers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145306949508:android:cfdb99b256e0e29814efd1",
+        "android_client_info": {
+          "package_name": "com.anvesh.wallstreetcrushers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145306949508-ld3br7bmrelj6qqbfid4r33sqc9p9hg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVgjeZRhVLgNkRCXhN4bXTm2DC_KcEfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145306949508-ld3br7bmrelj6qqbfid4r33sqc9p9hg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
